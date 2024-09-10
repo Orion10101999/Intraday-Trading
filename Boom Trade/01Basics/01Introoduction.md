@@ -1,6 +1,6 @@
 # Introduction :-
 
-## Trading :-
+## $$$ Trading :-
 
 ### 1. Intraday 
 
@@ -8,9 +8,9 @@
 
 ### 3. F/O
 
-### $ Investment
+### $$ Investment
 
-# Indian Market Trading :-
+# $ Indian Market Trading :-
 
 ```bash
 
@@ -31,7 +31,7 @@ Equity --------------------- Commodity
 ```
 
 
-##  : Chart :
+## $$$  : Chart :
 
 ```bash
                 CHART
@@ -44,7 +44,7 @@ Equity --------------------- Commodity
 
 ```
 
-## Technical Analysis :-
+## $$$ Technical Analysis :-
 
 ```bash
     
@@ -60,7 +60,7 @@ Price Action                Indicators / Technical Tools
 
 ```
 
-## Price Action :-
+## $$$ Price Action :-
 
 1. Market Structure
 
@@ -83,17 +83,17 @@ Price Action                Indicators / Technical Tools
 10. Live Trading
 
 
-### 20 % Skills
+### $ - 20 % Skills
 
-### 80 % Trading Psychology
+### $ - 80 % Trading Psychology
 
-### Risk Management
+### $ - Risk Management
 
-### Money Management
+### $ - Money Management
 
-### Live Market Experience
+### $ - Live Market Experience
 
-## Indicators :-
+## $$ - Indicators :-
 
 1. Moving Average
 
@@ -103,7 +103,7 @@ Price Action                Indicators / Technical Tools
 
 4. Bolling Bands
 
-### Technical Tools
+### $$$ - Technical Tools
 
 1. Fibonacci 
 
