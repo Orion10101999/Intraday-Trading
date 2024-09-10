@@ -109,9 +109,9 @@ Price Action                Indicators / Technical Tools
 
 # 1. Market Structure :-
 
-![Javatpoint](https://media-exp1.licdn.com/dms/image/C4D0BAQEwg5FK93uumQ/company-logo_200_200/0/1519923012279?e=2147483647&v=beta&t=63CNoS8OTR4lHjPhHSO7eFFqwLGwYunWfyDBV3tdc0c)  
 
 
 
 ![MarketStructure](../04Photos/01.png){: width=50% height=50%}
 
+![MarketStructure](../04Photos/01.png){: width=200px height=100px}
