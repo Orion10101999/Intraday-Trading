@@ -2,13 +2,13 @@
 
 ## Trading :-
 
-### Intraday 
+### 1. Intraday 
 
-### Swing
+### 2. Swing
 
-### F/O
+### 3. F/O
 
-### Investment
+### $ Investment
 
 # Indian Market Trading :-
 
@@ -108,9 +108,6 @@ Price Action                Indicators / Technical Tools
 1. Fibonacci 
 
 # 1. Market Structure :-
-
-
-
 
 ![MarketStructure](../04Photos/01.png)
 ![MarketStructure](../04Photos/02.png)
