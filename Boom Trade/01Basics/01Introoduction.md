@@ -112,6 +112,5 @@ Price Action                Indicators / Technical Tools
 
 
 
-![MarketStructure](../04Photos/01.png){: width=50% height=50%}
-
-![MarketStructure](../04Photos/01.png){: width=200px height=100px}
+![MarketStructure](../04Photos/01.png)
+![MarketStructure](../04Photos/02.png)
